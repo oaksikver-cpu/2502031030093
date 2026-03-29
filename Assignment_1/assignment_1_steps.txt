@@ -1,0 +1,19 @@
+Assignment 1 - Task 1
+
+Name: [Your Name]
+Enrollment Number: 2502031030093
+
+Steps Performed:
+
+1. Created a GitHub account.
+2. Created a repository named "2502031030093".
+3. Created two folders named "Assignment_1" and "Assignment_2".
+4. Designed a website prototype using Figma for an electronic shopping website.
+5. The design includes multiple screens such as Home, Login, Signup, Product Page, Cart, and Checkout.
+6. Uploaded the design files in the Assignment_1 folder.
+7. Developed the website using HTML and CSS based on the design.
+8. Uploaded the website code in the Assignment_2 folder.
+9. Shared the repository link in the submission form.
+
+Conclusion:
+Successfully completed the assignment.
